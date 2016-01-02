@@ -26,7 +26,7 @@ Handler.prototype.handle = function(context) {
                     var style = self.readStyle();
                     var body = markdown.toHTML(data.toString());
                     var html = "<html>\r\n<head>\r\n<title>Markdown Preview</title>\r\n<meta charset=\"UTF-8\"/>\r\n<style>\r\n" + style + "\r\n</style>\r\n</head>\r\n<body>\r\n" + body + "\r\n</body>\r\n</html>";
-                    context.content(html, self.server.mime('.html'));
+                    context.send(html, self.server.mime('.html'));
                 }
             });
         } else {
