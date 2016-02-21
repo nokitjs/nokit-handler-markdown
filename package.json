@@ -1,11 +1,17 @@
 {
     "name": "nokit-handler-markdown",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "handler of nokit",
     "main": "./handler.js",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Houfeng/nokit-handler-markdown.git"
-    }
+        "url": "https://github.com/nokitjs/nokit-handler-markdown.git"
+    },
+    "keywords": [
+        "nokit",
+        "nokitjs",
+        "session",
+        "redis"
+    ]
 }
