@@ -1,16 +1,20 @@
 {
-    "name": "nokit-handler-markdown",
-    "version": "1.0.3",
-    "description": "handler of nokit",
-    "main": "./handler.js",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/nokitjs/nokit-handler-markdown.git"
-    },
-    "keywords": [
-        "nokit",
-        "nokitjs",
-        "markdown"
-    ]
+  "name": "nokit-handler-markdown",
+  "version": "1.0.4",
+  "description": "handler of nokit",
+  "main": "./handler.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nokitjs/nokit-handler-markdown.git"
+  },
+  "keywords": [
+    "nokit",
+    "nokitjs",
+    "markdown"
+  ],
+  "dependencies": {
+    "mditor": "^0.1.4",
+    "tpjs": "^3.7.1"
+  }
 }

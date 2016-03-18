@@ -1,0 +1,15 @@
+{
+  "handlers": {
+    "^/": "$./handlers/mvc",
+    ".md$": "../"
+  },
+  "mvc": {
+    "routes": {
+      "/home": "./home",
+      "/": "./home",
+      "get /date": {
+        "view": "./date"
+      }
+    }
+  }
+}
