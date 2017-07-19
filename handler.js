@@ -3,7 +3,7 @@ var mditor = require("mditor");
 var tp = require("tpjs");
 
 var styleBuffer = fs.
-  readFileSync(require.resolve('mditor/build/css/mditor.min.css'))
+  readFileSync(require.resolve('mditor/dist/css/mditor.min.css'))
   .toString();
 var page = tp.compile(fs.readFileSync(__dirname + "/page.html").toString());
 
