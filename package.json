@@ -14,7 +14,7 @@
     "markdown"
   ],
   "dependencies": {
-    "mditor": "^0.1.4",
+    "mditor": "^1.2.9",
     "tpjs": "^3.7.1"
   }
 }
