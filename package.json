@@ -1,6 +1,6 @@
 {
   "name": "nokit-handler-markdown",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "handler of nokit",
   "main": "./handler.js",
   "license": "MIT",
