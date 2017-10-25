@@ -1,0 +1,14 @@
+[L][11:48:27] GET / ::1 . text/html 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 22ms #61841
+[L][11:48:27] GET /style/common.css ::1 http://localhost:8000/ text/css 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 12ms #61841
+[L][11:48:27] GET /favicon.ico ::1 http://localhost:8000/ image/x-icon 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 11ms #61841
+[L][11:48:35] GET /demo.md ::1 . text/html 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 38ms #61841
+[L][11:48:39] GET /demo.md ::1 . text/html 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 10ms #61841
+[L][11:48:39] GET /favicon.ico ::1 http://localhost:8000/demo.md image/x-icon 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 9ms #61841
+[L][11:48:40] GET /demo.md ::1 . text/html 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 10ms #61841
+[L][11:48:41] GET /favicon.ico ::1 http://localhost:8000/demo.md image/x-icon 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 2ms #61841
+[L][11:48:42] GET /demo.md ::1 . text/html 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 10ms #61841
+[L][11:48:43] GET /favicon.ico ::1 http://localhost:8000/demo.md image/x-icon 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 9ms #61841
+[L][11:48:44] GET /demo.md ::1 . text/html 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 4ms #61841
+[L][11:48:44] GET /favicon.ico ::1 http://localhost:8000/demo.md image/x-icon 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 2ms #61841
+[L][11:56:05] GET /demo.md ::1 . text/html 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 65ms #62620
+[L][11:56:06] GET /favicon.ico ::1 http://localhost:8000/demo.md image/x-icon 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 13ms #62620
